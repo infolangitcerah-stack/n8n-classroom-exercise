@@ -1,14 +1,7 @@
-# 📧 Exercise 07 – GmailAutoResponder  
+# 📧 Gmail Auto Responder
 
-📅 Created: 2 October  
+**Reflection:**  
+Automating Gmail replies was a shift in how I thought about communication 💌. It wasn’t just about speed — it was about empathy and structure.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Efficiency matters, but kindness in automation matters more.

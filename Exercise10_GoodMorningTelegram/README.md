@@ -1,14 +1,7 @@
-# 🌅 Exercise 10 – GoodMorningTelegram  
+# 🌅 Good Morning Telegram
 
-📅 Created: 3 October  
+**Reflection:**  
+Seeing a 'Good Morning' message sent automatically reminded me how small touches can make technology feel human ☀️💬.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Warmth in automation is what makes it meaningful.

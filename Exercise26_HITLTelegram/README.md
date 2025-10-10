@@ -1,2 +1,7 @@
-# Exercise26_HITLTelegram
-\n💡 Placeholder for workflow documentation
+# 💬 HITL Telegram
+
+**Reflection:**  
+Human-in-the-loop in Telegram was an awakening moment 🤝🧑‍💻.
+
+**💭 Lesson Learned:**  
+Collaboration is stronger than automation alone.

@@ -1,14 +1,7 @@
-# 📚 Exercise 23 – RAGAgent2.0  
+# 📚 RAG Agent 2.0
 
-📅 Created: 8 October  
+**Reflection:**  
+Combining a database with retrieval felt like teaching the AI to 'remember' experiences 🧠📚.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Memory is what transforms information into wisdom.

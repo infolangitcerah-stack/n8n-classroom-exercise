@@ -1,14 +1,7 @@
-# ⏰ Exercise 16 – DailyReminderDispatcher  
+# ⏰ Daily Reminder Dispatcher (v2)
 
-📅 Created: 4 October  
+**Reflection:**  
+The second version of my reminder flow felt more refined — less about mechanics, more about rhythm 🎵⏰.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Consistency isn’t luck — it’s the reward of careful design.

@@ -1,14 +1,7 @@
-# 📑 Exercise 13 – GSheetAutomation  
+# 📑 GSheet Automation
 
-📅 Created: 3 October  
+**Reflection:**  
+Automating Google Sheets made data feel alive 🧾✨.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Data becomes meaningful when it moves with purpose.

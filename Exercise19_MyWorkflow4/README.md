@@ -1,14 +1,7 @@
-# 🧪 Exercise 19 – MyWorkflow4  
+# 🧪 MyWorkflow4
 
-📅 Created: 6 October  
+**Reflection:**  
+By now, debugging didn’t feel frustrating — it felt natural 🔧💡.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Growth hides inside every bug we fix.

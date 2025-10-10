@@ -1,14 +1,7 @@
-# 🤖 Exercise 21 – MyFirstJARVIS  
+# 🤖 My First JARVIS
 
-📅 Created: 7 October  
+**Reflection:**  
+JARVIS wasn’t easy — it tested my patience and curiosity 🧠🔥.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Complexity is just curiosity wearing a harder hat.

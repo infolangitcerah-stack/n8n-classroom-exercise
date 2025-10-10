@@ -1,14 +1,7 @@
-# 🦅 Exercise 06 – SocialEagleAIDemo  
+# 🦅 SocialEagleAIDemo
 
-📅 Created: 2 October  
+**Reflection:**  
+SocialEagle was my introduction to creative automation. The idea of linking AI to social engagement opened my eyes to how workflows could scale communication 🦅💬.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Every message is a chance to connect — even when sent by AI.

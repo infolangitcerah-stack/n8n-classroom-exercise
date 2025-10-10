@@ -1,14 +1,7 @@
-# 💬 Exercise 20 – TelegramAIAgent  
+# 💬 Telegram AI Agent
 
-📅 Created: 7 October  
+**Reflection:**  
+Connecting Telegram to an AI agent felt like giving my bot a voice 🗣️✨.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Every chatbot is a reflection of the designer’s intent and imagination.

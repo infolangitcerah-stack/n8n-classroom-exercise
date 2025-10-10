@@ -1,14 +1,7 @@
-# 📄 Exercise 12 – PDFtoSummary  
+# 📄 PDF to Summary
 
-📅 Created: 3 October  
+**Reflection:**  
+Summarizing long PDFs reminded me that brevity is intelligence in action ✍️📚.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Simplicity is the highest form of understanding.

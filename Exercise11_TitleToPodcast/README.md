@@ -1,14 +1,7 @@
-# 🎙️ Exercise 11 – TitleToPodcast  
+# 🎙️ Title to Podcast
 
-📅 Created: 3 October  
+**Reflection:**  
+Turning titles into podcast summaries showed how automation can amplify creativity 🎧.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Technology can speak — when we teach it how to listen first.

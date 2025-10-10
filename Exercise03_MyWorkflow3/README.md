@@ -1,14 +1,7 @@
-# 🧪 Exercise 03 – MyWorkflow3  
+# 🧪 MyWorkflow3
 
-📅 Created: 30 September  
+**Reflection:**  
+This early experiment was about learning flow — both in logic and in patience. It wasn’t about complexity; it was about clarity 🔍.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Mastery begins with understanding the basics deeply.

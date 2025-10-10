@@ -1,14 +1,7 @@
-# 🤖 Exercise 08 – AINodes  
+# 🤖 AI Nodes
 
-📅 Created: 2 October  
+**Reflection:**  
+Experimenting with AI nodes showed me that intelligence isn’t magic — it’s structure and logic with imagination layered on top 🧠⚙️.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+AI power comes from clarity in design, not just clever prompts.

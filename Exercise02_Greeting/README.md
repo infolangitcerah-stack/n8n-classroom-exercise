@@ -1,14 +1,7 @@
-# 👋 Exercise 02 – Greeting  
+# 👋 Greeting
 
-📅 Created: 30 September  
+**Reflection:**  
+This was my 'Hello World' moment in n8n. Watching a simple greeting trigger made me appreciate the invisible dance between nodes, logic, and flow 🤖💬.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Every automation starts with a simple hello.

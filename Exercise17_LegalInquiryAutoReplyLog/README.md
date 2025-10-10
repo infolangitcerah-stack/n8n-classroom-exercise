@@ -1,14 +1,7 @@
-# ⚖️ Exercise 17 – LegalInquiryAutoReplyLog  
+# ⚖️ Legal Inquiry Auto-Reply Log
 
-📅 Created: 5 October  
+**Reflection:**  
+Designing auto-replies made me think about professionalism, tone, and clarity 💬⚖️.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Good automation doesn’t replace humanity — it enhances it.

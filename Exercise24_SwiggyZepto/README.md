@@ -1,14 +1,7 @@
-# 🛒 Exercise 24 – SwiggyZepto  
+# 🛒 Swiggy & Zepto Agent
 
-📅 Created: 8 October  
+**Reflection:**  
+Using agents for real-world tasks inspired me to see AI beyond theory 🚀🍱.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+The best AI flows are the ones that make real life easier.

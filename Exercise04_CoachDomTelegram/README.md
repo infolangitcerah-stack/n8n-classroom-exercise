@@ -1,14 +1,7 @@
-# 💬 Exercise 04 – CoachDomTelegram  
+# 💬 CoachDomTelegram
 
-📅 Created: 30 September  
+**Reflection:**  
+Building a Telegram flow under the 'CoachDom' idea made me think about guidance, tone, and helpful interaction — just like mentoring in automation form 🗣️✨.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Automation can coach, but empathy makes it connect.

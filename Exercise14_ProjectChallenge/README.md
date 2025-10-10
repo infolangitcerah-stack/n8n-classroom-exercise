@@ -1,14 +1,7 @@
-# 🏆 Exercise 14 – ProjectChallenge  
+# 🏆 Project Challenge
 
-📅 Created: 4 October  
+**Reflection:**  
+This project challenged me to think like both an engineer and a storyteller 🎯.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Projects teach discipline; purpose gives them direction.

@@ -1,14 +1,7 @@
-# ⚖️ Exercise 05 – ConditionalNodes  
+# ⚖️ Conditional Nodes
 
-📅 Created: 1 October  
+**Reflection:**  
+Learning conditional logic taught me that clarity matters — in automation and in thinking ⚖️.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+Every path has a reason, and every choice defines the outcome.

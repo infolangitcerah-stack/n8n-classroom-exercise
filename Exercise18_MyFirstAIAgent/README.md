@@ -1,14 +1,7 @@
-# 🤖 Exercise 18 – MyFirstAIAgent  
+# 🤖 My First AI Agent
 
-📅 Created: 6 October  
+**Reflection:**  
+Building my first AI Agent was like seeing automation evolve into intelligence 🤯.
 
-### 📌 Description  
-Short description of the workflow goes here.  
-
-### 🔑 Key Nodes  
-- Manual Trigger  
-- Set  
-- Code  
-
-### 🖼️ Workflow Screenshot  
-*(To be added later)*  
+**💭 Lesson Learned:**  
+True automation isn’t about control — it’s about collaboration.
