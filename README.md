@@ -40,3 +40,11 @@ Each exercise is numbered in chronological order and includes:
 ---
 
 ✨ More exercises will be added as I continue my n8n learning journey 🚀
+| No. | Folder | Title |
+|-----|---------|--------|
+| 25 | [Exercise25_MCPDemo](./Exercise25_MCPDemo) | MCP Demo |
+| 26 | [Exercise26_HITLTelegram](./Exercise26_HITLTelegram) | HITL Telegram |
+| 27 | [Exercise27_HITLGmail](./Exercise27_HITLGmail) | HITL Gmail |
+| 28 | [Exercise28_FallbackModel](./Exercise28_FallbackModel) | Fallback Model |
+| 29 | [Exercise29_MultiAgent](./Exercise29_MultiAgent) | Multi Agent |
+| 30 | [Exercise30_MicroSaasLoveable](./Exercise30_MicroSaasLoveable) | MicroSaaS Loveable |
