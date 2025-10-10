@@ -1,11 +1,10 @@
-# 🎓 n8n Classroom Exercises  
+# ?? n8n Classroom Exercises
 
-This repository contains my **classroom and learning exercises** with n8n.  
-Each exercise is numbered in chronological order and includes:  
-- 📂 The exported `workflow.json` file  
-- 📝 A short `README.md` with description and notes  
+Welcome to my **n8n Classroom Journey** � a growing collection of 30 automation exercises ??  
+Each project captures a key concept, from simple triggers to advanced multi-agent systems.
 
 
+<<<<<<< HEAD
 ## 📑 Exercise Index
 
 | # | Exercise Name | 📅 Created | 🔗 Link |
@@ -47,3 +46,7 @@ Each exercise is numbered in chronological order and includes:
 
 
 
+=======
+## ?? Exercise Index
+(Full table of Exercises 01�30 intentionally shortened here for brevity; we�ll restore it from a Markdown file next step.)
+>>>>>>> 7bc17f1 (📝 Add Reflections_All.md before rebase)
