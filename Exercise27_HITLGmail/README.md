@@ -14,3 +14,7 @@ It’s not just about sending smarter drafts ✍️ — it’s about respecting 
 
 A simple button, but a profound shift in how trust and responsibility flow between us and our AI teammates 💡.
 It reminds me that automation can be safe, mindful, and human-centered when we design it with small but meaningful checkpoints 🌱✨.
+
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/14f38de1-781a-4713-b480-0030410a17d6" />
+
+
