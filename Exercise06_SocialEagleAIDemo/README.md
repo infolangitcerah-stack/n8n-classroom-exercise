@@ -5,3 +5,5 @@ SocialEagle was my introduction to creative automation. The idea of linking AI t
 
 **💭 Lesson Learned:**  
 Every message is a chance to connect — even when sent by AI.
+
+![Uploading image.png…]()
