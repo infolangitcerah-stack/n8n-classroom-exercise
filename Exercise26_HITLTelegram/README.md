@@ -27,4 +27,7 @@ What struck me most is how small design choices — like a single button — can
 
 At its best, HITL isn’t about slowing down ⏳ — it’s about slowing just enough to make sure speed 🚀 comes with wisdom 🧘.
 
+<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/e289c597-a78f-4f84-a7ce-424473dcdac1" />
+
+
 🔖 #AI #HumanInTheLoop #TrustInAI #AutomationWithRespect #n8n
