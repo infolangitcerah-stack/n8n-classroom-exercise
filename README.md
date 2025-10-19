@@ -23,7 +23,7 @@ Together, they define the journey from automation ➜ cognition ➜ cooperation 
 
 | Ex. No. | Title | Reflection Summary | Date Created |
 |:--:|:--|:--|:--:|
-| 01 | 🔄 **Convert to File** | Learned that small automations are the seeds of big systems 🌱 | 29 Sep |
+| 01 | 🔄 **Convert to File** | Small automations are the seeds of big systems 🌱 | 29 Sep |
 | 02 | 👋 **Greeting** | My first “Hello World” in n8n — where intelligence begins 🤖💬 | 30 Sep |
 | 03 | 🧪 **MyWorkflow3** | Clarity before complexity; patience in debugging 🔍 | 30 Sep |
 | 04 | 💬 **CoachDomTelegram** | Teaching others helped me learn deeper 🗣️ | 30 Sep |
